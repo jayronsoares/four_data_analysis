@@ -1,4 +1,4 @@
-# The four main data_analysis types applied to data engineering:
+# The four main data analysis types applied to data engineering:
 <p>help reduce costs and prevent failures in data engineering pipelines by providing insights into past performance, identifying potential issues, forecasting future trends, and recommending proactive measures.</p>
 
 ### 1. Descriptive Analysis
